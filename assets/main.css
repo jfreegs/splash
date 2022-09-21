@@ -175,3 +175,16 @@ h1 {
   font-size: 2.5em;
   font-family: "Create Round", sans-serif;
 }
+p {
+  clear: both;
+  color: #f1f1f1;
+  font-size: 14px;
+  line-height: 22px;
+}
+footer a {
+  color: white;
+}
+i {
+  margin-right: 30px;
+  font-size: 30px;
+}
