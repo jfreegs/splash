@@ -135,8 +135,8 @@ table {
   box-sizing: border-box;
 }
 body {
-  background-color: #0d080e; /*#5E5E5E*/
-  background-image: url("img/sunset.jpeg");
+  background-color: #08080a; /*#5E5E5E*/
+  background-image: url("img/coffee-g0ed2c709c_1920.jpeg");
   background-repeat: no-repeat;
   background-size: 100% auto;
   background-position: top;
@@ -144,7 +144,7 @@ body {
   margin: 0;
 }
 .wrapper {
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(8, 8, 10, 0.5);
   float: right;
   margin: 80px 0 0 0;
   max-width: 420px;
@@ -173,7 +173,8 @@ h1 {
   text-shadow: 2px 2px black;
   float: left;
   font-size: 2.5em;
-  font-family: "Create Round", sans-serif;
+  font-family: "Create Round", serif;
+  color: #b38a63;
 }
 p {
   clear: both;
